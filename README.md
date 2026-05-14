@@ -6,7 +6,7 @@ DCG-Net is a lightweight encoder-decoder network for skin lesion segmentation th
 
 ## Architecture
 
-![DCG-Net Architecture](framework.png)
+![DCG-Net Architecture](framework.pdf)
 
 DCG-Net follows the encoder-decoder paradigm with three targeted modules addressing specific failure modes of thin segmentation networks:
 
