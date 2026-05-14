@@ -1,4 +1,4 @@
-# Resource-Constrained Skin Lesion Segmentation using Efficient Attention Dual-Stream Network
+# Resource-Constrained Skin Lesion Segmentation via Dual-Domain Confidence-Gated Boundary Refinement
 
 This is the official implementation of **EADS-Net** (Efficient Attention Dual-Stream Network), as presented in the paper:
 
